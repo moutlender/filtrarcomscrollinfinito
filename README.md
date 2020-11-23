@@ -1,0 +1,2 @@
+# filtrarcomscrollinfinito
+Scroll infinito é uma técnica que permite que o usuário continue rolando por uma infinidade de conteúdos sem precisar em nenhum momento apertar nenhum botão para carregar mais. Depois exemplos famosos desse tipo de interação são o newsfeed do Facebook, e o seu feed pessoal do Pinterest: você continua rolando a página indefinidamente, sem nunca precisar trocar de página ou apertar um botão para carregar mais itens.
